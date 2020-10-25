@@ -1,4 +1,4 @@
-### Hi there, I'm Alan Sarluv - Frontend Web Developer  👋
+### Hi there, I'm Alan Sarluv - Front-end Web Developer  👋
 [![Website](https://img.shields.io/website?label=ruslan.id&style=for-the-badge&url=https%3A%2F%2Fwww.ruslan.id)](https://www.ruslan.id)
 
 
