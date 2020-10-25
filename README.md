@@ -1,7 +1,4 @@
 ### Hi there, I'm Alan Sarluv - Frontend Web Developer  👋
-
-[![Website](https://img.shields.io/website?label=ruslan.id&style=for-the-badge&url=https%3A%2F%ruslan.id)](https://ruslan.id)
-
 ## I'm a Husband, Father, Developer, and Learner!!
 
 - I'm a self taught Front-end developer currently living and work in Jakarta
