@@ -5,8 +5,8 @@
 ## I'm a Husband, Father, Developer, and Learner!!
 
 - I'm a self taught Front-end developer currently living and work in Jakarta
-- I’m currently learning everything
-- I’m looking to contribute to Open Source projects
+- Currently learning everything
+- Looking to contribute to Open Source projects
 
 
 ### Connect with me:
